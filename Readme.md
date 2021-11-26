@@ -1,5 +1,5 @@
 # NextGen Connect with Java remote debugger enabled
-This image is intended to aid with Connect plugin development. It's sole purpose is to write `-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005`, a JVM parameter to `mcserver.vmoptions`. The parameter enables remote Java debugging that you can use with IntelliJ for example.
+This image is intended to aid with Connect plugin development. It's sole purpose is to write `-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005`, a JVM parameter to `mcserver.vmoptions`. The parameter enables remote Java debugging that you can use with IntelliJ, for example.
 
 ---
 
