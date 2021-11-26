@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kpalang/connect:3.11.0
+          tags: kpalang/connect:3.10.1
